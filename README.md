@@ -1,4 +1,4 @@
-[![Terria's GitHub stats](https://github-readme-stats.vercel.app/api?username=terria-k&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Terria's GitHub stats](https://github-readme-stats.vercel.app/api?username=terria-k&theme=tokyonight&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terria-k&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
